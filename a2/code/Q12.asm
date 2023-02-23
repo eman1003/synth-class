@@ -1,3 +1,5 @@
+; Q12: Made for the Ricoh 2A03 microprocessor used in Nintendo Entertainment System
+
 music_data_untitled:
 	.db 1
 	.dw .instruments
