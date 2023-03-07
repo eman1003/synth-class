@@ -1,4 +1,4 @@
-; Q12: Made for the Ricoh 2A03 microprocessor used in Nintendo Entertainment System
+; Q12: Made for the Ricoh 2A03 microprocessor used in Nintendo Entertainment System. Generated with assistance from Fami Studio
 
 music_data_untitled:
 	.db 1
